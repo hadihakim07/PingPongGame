@@ -2,6 +2,7 @@
 Created Friday November 11th 2022
 Created by: Abdul Hadi Hakimzadah
 This js file acts as the javascript code for the ping pong game for Assignment 2. 
+
 */
 var canvas = document.getElementById('gameCanvas'),
     canvasContext = canvas.getContext('2d'),
